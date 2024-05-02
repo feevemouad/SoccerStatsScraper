@@ -1,1 +1,1 @@
-#SOCCERSTATS SCRAPER
+SoccerStats scraper
